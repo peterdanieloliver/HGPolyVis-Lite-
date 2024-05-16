@@ -1,0 +1,68 @@
+Nary Relationship Data 2D
+Comma Delimiter
+Relationship Colors Saved
+##subset 44
+
+44,18
+0,Antonio Franchi,0.3130272368326145,-24.6801318495707385
+1,Ruggero Carli,0.9607541000931978,-25.6620359756512819
+2,Davide Bicego,1.0120506696277878,-25.0657055054645319
+3,Markus Ryll,0.4255492258828467,-25.4222252901157191
+4,Giulia Michieletto,-0.1180731048439448,-25.6862231767685820
+5,Marco Tognon,-0.5153282688295957,-25.0632996712146117
+6,Paolo Stegagno,0.2645301203826392,-23.9812539873686106
+7,Marco Cognetti,0.5742078689172885,-23.3410380485315940
+8,Giuseppe Oriolo,0.8602577805561686,-24.0583107565739738
+9,Heinrich H. Blthoff,-0.3702558616351804,-23.8100523543086133
+10,Paolo Salaris,1.2228273640887461,-22.0648305009317873
+11,Riccardo Spica,1.1247878835561989,-22.8139820522258141
+12,Paolo Robuffo Giordano,0.5509330378366002,-22.5084927671999750
+13,Massimo Cefalo,1.7089503006067048,-24.4812170963529994
+14,Marilena Vendittelli,1.7211963152536249,-23.8548041543965113
+15,Yuyi Liu,-0.6917379108733733,-23.3976850726822505
+16,Jan Maximilian Montenbruck,-1.4723765212990036,-23.2957971218298532
+17,Daniel Zelazo,-1.0407038636673196,-23.0989440567976203
+18,Marcin Odelga,-1.1055730015377636,-23.6334617954454558
+19,Sujit Rajappa,-0.8486591398569051,-24.0309311741849214
+20,Frank Allgwer,-1.5881436327472049,-23.7597523477831416
+21,Andreas Zell,-1.2985036973384212,-24.1360388056152715
+22,Andrea Cristofaro,2.0174621160229362,-22.5089980473593592
+23,Lucia Pallottino,2.1550025112196902,-21.8981243530299317
+24,Christian Vassallo,1.4840015724775133,-21.3593138904901139
+25,Philippe Soures,0.8141060217213327,-21.3545875135272212
+26,Jean-Paul Laumond,1.2450827527204200,-20.7055286357056687
+27,Justin Carpentier,0.9686586549676709,-20.0401071905879853
+28,Mehdi Benallegue,1.6403393350513289,-20.1072314506641590
+29,Nicolas Mansard,1.3910010673358526,-19.3032306595860490
+30,Andrea Del Prete,1.5440329466111669,-18.7417150607008551
+31,Steve Tonneau,1.0558461419799507,-18.6588723250244435
+32,Julien Pettr,0.9744190248559967,-18.0929385308698194
+33,Chonhyon Park,0.7122643506337799,-19.1152376846516177
+34,Dinesh Manocha,0.5270288267577302,-18.6344321497183358
+35,Mathieu Geisert,2.0706059551468723,-18.5238955652739818
+36,Francesco Romano,2.1355392222992462,-19.3424934316264938
+37,Francesco Nori,2.4301755296194871,-18.9201710142045769
+38,Yi Li,1.2349424354007434,-17.4752503877520944
+39,Jean-Philippe Saut,0.5168116062053865,-17.6109536848205437
+40,Anis Sahbani,1.0458508587159103,-16.9881502842319740
+41,Franck Multon,0.4899989309163280,-17.0939471804297192
+42,Jia Pan,-0.1192019529444019,-19.0339831045785886
+43,Daniele Pucci,2.9896729862473030,-19.3718077388869148
+0,141,211,199,Full-Pose Tracking Control for Aerial Robotic Systems With Laterally Bounded Input Force.,4,3,1,2,0
+1,128,177,211,Fundamental Actuation Properties of Multirotors - Force-Moment Decoupling and Fail-Safe Robustness.,3,4,3,0
+2,179,222,105,Dynamics Control and Estimation for Aerial Robots Tethered by Cables or Bars.,2,5,0
+3,253,180,98,Ground and Aerial Mutual Localization Using Anonymous Relative-Bearing Measurements.,5,6,0,8,7,9
+4,141,211,199,Online Optimal Perception-Aware Trajectory Generation.,4,7,11,10,12
+5,128,177,211,Repeatable Motion Planning for Redundant Robots Over Cyclic Tasks.,3,13,14,8
+6,204,235,197,A Distributed Control Approach to Formation Balancing and Maneuvering of Multiple Multirotor UAVs.,8,20,21,19,9,15,17,16,18
+7,128,177,211,Epsilon-Optimal Synthesis for Unicycle-Like Vehicles With Limited Field-of-View Sensors.,3,22,23,10
+8,141,211,199,The Geometry of Confocal Curves for Passing Through a Door.,4,10,24,26,25
+9,141,211,199,Center-of-Mass Estimation for a Polyarticulated System in Contact - A Spectral Approach.,4,27,26,28,29
+10,179,222,105,Multicontact Locomotion of Legged Robots.,2,27,29
+11,128,177,211,Zero Step Capturability for Legged Robots in Multicontact.,3,29,30,31
+12,251,128,114,An Efficient Acyclic Contact Planner for Multiped Robots.,6,33,29,30,31,32,34
+13,253,180,98,Regularized Hierarchical Differential Dynamic Programming.,5,29,36,37,35,30
+14,179,222,105,Robustness to Joint-Torque-Tracking Errors in Task-Space Inverse Dynamics.,2,30,29
+15,253,180,98,Fast Grasp Planning Using Cord Geometry.,5,39,32,38,40,41
+16,128,177,211,Parallel Motion Planning Using Poisson-Disk Sampling.,3,42,33,34
+17,128,177,211,Collocated Adaptive Control of Underactuated Mechanical Systems.,3,36,43,37
